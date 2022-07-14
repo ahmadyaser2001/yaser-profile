@@ -9,12 +9,12 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Hulu Web',
-    description:"While building it you're going to learn many advanced JavaScript topics, you will be able to add to your portfolio. And trust me, Hulu applications are impressive.",
+    title: 'Resturant Web Site',
+    description:"While building it you're going to learn many advanced JavaScript topics, you will be able to add to your portfolio. And trust me, Resturant Web Site applications are impressive.",
     image: '/images/2.png',
-    tags: ['Html', 'css'],
-    source: 'https://github.com/ahmadyaser2001/hulu-webpage',
-    visit: 'https://hulu-webpage-zeta.vercel.app/',
+    tags: ['React', 'Css'],
+    source: 'https://github.com/ahmadyaser2001/Resturant-Web-Site',
+    visit: 'https://web-eta-jade.vercel.app/',
     id: 1,
   },
   {
